@@ -1,0 +1,12 @@
+## Interface: 16001, 11509
+## Title: Cardio Police
+## IconTexture: Interface\Icons\Ability_Rogue_Sprint
+## Notes: Workout reminders after every dungeon and every hour outside one. Rotates pushups, situps, jumping jacks and air squats, and can sync with a friend.
+## Author: magnumwood
+## Version: @project-version@
+## X-License: GPL-3.0
+## Category-enUS: Miscellaneous
+## X-Category: Miscellaneous
+## SavedVariables: CardioPoliceDB
+
+CardioPolice.lua
